@@ -4,10 +4,10 @@
   * @version Cool01
   * @description Cool theme for discord
   * @authorId 1158417396944617553
-  * @source https://github.com/DevEvil99/DarkPlus-Discord-Theme
+  * @source https://github.com/kaden7654/cooltheme
 */
 
-@import url('https://devevil99.github.io/devevil/BetterDiscordAddons/Theme/Dark+/Dark+.theme.css');
+@import url(https://raw.githubusercontent.com/kaden7654/cooltheme/main/CoolStuff.css');
 
 :root {
   --darkplus-bg: #212121;
