@@ -10,10 +10,10 @@
 @import url(https://raw.githubusercontent.com/kaden7654/cooltheme/main/CoolStuff.css');
 
 :root {
-  --darkplus-bg: #212121;
+  --darkplus-bg: #111111;
   --darkplus-bg2: #302f2f;
   --darkplus-sec: #bb86fc;
-  --darkplus-links: #cdaef3;
+  --darkplus-links: #ff3366;
   --darkplus-home-icon: url(https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png);
  --watermark-filter-invert: 0%;
   --watermark-filter-sepia: 50%;
